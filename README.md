@@ -18,5 +18,5 @@ L’objectiu és presentar una única solució web professional, clara i funcion
 
 ## Web definitiva
 
-[**Veure la web**]([https://classessmx2n.github.io/web-projecte7-marcmele184/])
+[**Veure la web**](https://classessmx2n.github.io/web-projecte7-marcmele184/)
 
